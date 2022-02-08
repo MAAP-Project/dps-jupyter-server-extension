@@ -1,5 +1,5 @@
 {
-  "name": "dps-jupyter-server-extension",
+  "name": "@maap-project/dps-jupyter-server-extension",
   "version": "1.0.0",
   "description": "DPS Jupyter server extension.",
   "keywords": [
@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/MAAP-Project/dps-jupyter-server-extension/issues"
   },
-  "license": "BSD-3-Clause",
+  "license": "",
   "author": {
     "name": "MAAP JPL Dev",
     "email": ""
