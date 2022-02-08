@@ -1,0 +1,7 @@
+{
+  "ServerApp": {
+    "jpserver_extensions": {
+      "dps_jupyter_server_extension": true
+    }
+  }
+}
